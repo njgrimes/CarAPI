@@ -1,0 +1,12 @@
+/Users/noah/Desktop/CODE/C#/MyFirstAPI/MyFirstAPI.Domain/bin/Debug/net7.0/MyFirstAPI.Domain.deps.json
+/Users/noah/Desktop/CODE/C#/MyFirstAPI/MyFirstAPI.Domain/bin/Debug/net7.0/MyFirstAPI.Domain.dll
+/Users/noah/Desktop/CODE/C#/MyFirstAPI/MyFirstAPI.Domain/bin/Debug/net7.0/MyFirstAPI.Domain.pdb
+/Users/noah/Desktop/CODE/C#/MyFirstAPI/MyFirstAPI.Domain/obj/Debug/net7.0/MyFirstAPI.Domain.csproj.AssemblyReference.cache
+/Users/noah/Desktop/CODE/C#/MyFirstAPI/MyFirstAPI.Domain/obj/Debug/net7.0/MyFirstAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noah/Desktop/CODE/C#/MyFirstAPI/MyFirstAPI.Domain/obj/Debug/net7.0/MyFirstAPI.Domain.AssemblyInfoInputs.cache
+/Users/noah/Desktop/CODE/C#/MyFirstAPI/MyFirstAPI.Domain/obj/Debug/net7.0/MyFirstAPI.Domain.AssemblyInfo.cs
+/Users/noah/Desktop/CODE/C#/MyFirstAPI/MyFirstAPI.Domain/obj/Debug/net7.0/MyFirstAPI.Domain.csproj.CoreCompileInputs.cache
+/Users/noah/Desktop/CODE/C#/MyFirstAPI/MyFirstAPI.Domain/obj/Debug/net7.0/MyFirstAPI.Domain.dll
+/Users/noah/Desktop/CODE/C#/MyFirstAPI/MyFirstAPI.Domain/obj/Debug/net7.0/refint/MyFirstAPI.Domain.dll
+/Users/noah/Desktop/CODE/C#/MyFirstAPI/MyFirstAPI.Domain/obj/Debug/net7.0/MyFirstAPI.Domain.pdb
+/Users/noah/Desktop/CODE/C#/MyFirstAPI/MyFirstAPI.Domain/obj/Debug/net7.0/ref/MyFirstAPI.Domain.dll
